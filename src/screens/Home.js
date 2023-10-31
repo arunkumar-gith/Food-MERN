@@ -38,15 +38,14 @@ const Home = () => {
         <div>
           <div
             id="carouselExampleFade"
-            className="carousel slide carousel-fade siz"
+            className="carousel slide carousel-fade "
             data-bs-ride="carousel"
-            style={{ objectFit: "contain !important" }}
           >
-            <div className="carousel-inner" id="carousel">
-              <div className="carousel-caption" style={{ zIndex: "10" }}>
+            <div className="carousel-inner " id="carousel">
+              <div class=" carousel-caption  " style={{ zIndex: "9" }}>
                 <div className="d-flex justify-content-center">
                   <input
-                    className="form-control me-2"
+                    className="form-control me-2 w-75 bg-white text-dark"
                     type="search"
                     placeholder="Search"
                     aria-label="Search"
@@ -65,24 +64,24 @@ const Home = () => {
               </div>
               <div className="carousel-item active">
                 <img
-                  src="https://source.unsplash.com/random/300×300/?burger"
-                  className="d-block w-100"
+                  src="https://source.unsplash.com/random/900x700/?burger"
+                  className="d-block w-100  "
                   style={{ filter: "brightness(30%)" }}
                   alt="..."
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="https://source.unsplash.com/random/300×300/?pastry"
-                  className="d-block w-100"
+                  src="https://source.unsplash.com/random/900x700/?pastry"
+                  className="d-block w-100 "
                   style={{ filter: "brightness(30%)" }}
                   alt="..."
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="https://source.unsplash.com/random/300×300/?barbeque"
-                  className="d-block w-100"
+                  src="https://source.unsplash.com/random/900x700/?barbeque"
+                  className="d-block w-100 "
                   style={{ filter: "brightness(30%)" }}
                   alt="..."
                 />
