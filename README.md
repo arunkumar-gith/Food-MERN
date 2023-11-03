@@ -1,10 +1,11 @@
 # Deployed Link
 https://foodmern-ak.netlify.app/
 
-
+### SS1
 ![Screenshot 2023-11-04 001645](https://github.com/arunkumar-gith/Food-MERN/assets/71975018/6e662aa7-7a58-4283-8f2d-a5f3325ec66e)
 
-!
+
+### SS2
 ![Screenshot 2023-11-04 001740](https://github.com/arunkumar-gith/Food-MERN/assets/71975018/19f38ac1-e8d1-40d4-8361-56923cc8798a)
 
 
