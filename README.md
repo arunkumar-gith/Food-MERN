@@ -1,12 +1,15 @@
 # Deployed Link
 https://foodmern-ak.netlify.app/
 
-### SS1
+### Home page
 ![Screenshot 2023-11-04 001645](https://github.com/arunkumar-gith/Food-MERN/assets/71975018/6e662aa7-7a58-4283-8f2d-a5f3325ec66e)
 
 
-### SS2
+### Categories
 ![Screenshot 2023-11-04 001740](https://github.com/arunkumar-gith/Food-MERN/assets/71975018/19f38ac1-e8d1-40d4-8361-56923cc8798a)
+
+### Add to cart
+![Screenshot 2023-11-04 010753](https://github.com/arunkumar-gith/Food-MERN/assets/71975018/c517f28c-b9ca-4065-bc41-b52236462b85)
 
 
 # Getting Started with Create React App
