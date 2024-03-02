@@ -1,6 +1,8 @@
 # Deployed Link
 https://foodmern-ak.netlify.app/
 
+please wait for a minute to open the page properly
+
 ### Home page
 ![Screenshot 2023-11-04 001645](https://github.com/arunkumar-gith/Food-MERN/assets/71975018/6e662aa7-7a58-4283-8f2d-a5f3325ec66e)
 
